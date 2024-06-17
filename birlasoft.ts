@@ -16,3 +16,6 @@ display(): void
 }
 let objperson= new Person(21,"HIMANSHU");
 objperson.display();
+
+let objperson1= new Person(23,"HIMANSHU");
+objperson1.display();
